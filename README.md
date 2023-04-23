@@ -1,9 +1,7 @@
-# FlashCardsM%Core2
+# FlashCardsM5Core2
 
 
 Flash Cards application with M5Core2, can easily be adapted to M5Stack Core1.
-Grove - 2x16 LCD RGB Backlight.
-
 
 Adjust FC_DELAY for you reading comfort.
 
